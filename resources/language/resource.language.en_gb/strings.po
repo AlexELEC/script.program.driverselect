@@ -1,0 +1,91 @@
+# XBMC Media Center language file
+# Addon Name: DVB driver select
+# Addon id: script.program.driverselect
+# Addon version: 0.1.0
+# Addon Provider: Birger Jesch
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC-Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: 2017-09-15 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgctxt "#30010"
+msgid "AlexELEC driver select"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Select driver module"
+msgstr ""
+
+msgctxt "#30012"
+msgid "System Reboot required"
+msgstr ""
+
+msgctxt "#30013"
+msgid "You changed the system driver. A system reboot is required for the new driver to work properly. Would you like to reboot the system now?"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Driver changed, reboot required!"
+msgstr ""
+
+msgctxt "#30015"
+msgid "No driver modules found!"
+msgstr ""
+
+msgctxt "#30016"
+msgid "No description available for this module!"
+msgstr ""
+
+msgctxt "#30017"
+msgid "unknown"
+msgstr ""
+
+msgctxt "#30018"
+msgid "You have module drivers disabled. A system reboot is required to work properly. Would you like to reboot the system now?"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Could not access addon library"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Select category"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Choose DVB driver module"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Choose video driver module"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Choose network driver module"
+msgstr ""
+
+msgctxt "#30024"
+msgid "AlexELEC default drivers"
+msgstr ""
+
+msgctxt "#30025"
+msgid "DVB drivers from standard package"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Video drivers from standard package"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Network drivers from standard package"
+msgstr ""
+
